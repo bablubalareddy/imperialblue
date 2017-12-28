@@ -1,0 +1,15 @@
+{
+  "name": "itseekh-ssh",
+  "version": "0.1.0",
+  "author": "itseekh",
+  "summary": "this will generate a ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/bablubalareddy/imperialblue.git",
+  "project_page": "https://github.com/bablubalareddy/imperialblue",
+  "issues_url": "https://github.com/bablubalareddy/imperialblue/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
